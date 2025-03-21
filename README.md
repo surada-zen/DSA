@@ -19,6 +19,7 @@ Here are the primary data structures included in this repository:
 ## Algorithms
 This section covers the implementation of various algorithms, including but not limited to:
 - **Two Pointer**
+- **Sliding Window(static window & variable window)**
 
 - **Sorting Algorithms**: Bubble Sort, Merge Sort, Quick Sort, etc.
 - **Searching Algorithms**: Binary Search, Linear Search, etc.
