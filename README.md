@@ -6,6 +6,7 @@ This repository contains various implementations of **Data Structures** and **Al
 ## Data Structures
 Here are the primary data structures included in this repository:
 - **Hash maps**
+- **Stack** (used - paranthesis Validaiton)
 
 - **Arrays**
 - **Linked Lists**
