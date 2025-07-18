@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA)
+# Data Structures and Algorithms   (DSA)
 
 This repository contains various implementations of **Data Structures** and **Algorithms** (DSA). The goal of this project is to provide simple and efficient solutions to common problems in computer science. Each folder and file will demonstrate a different data structure or algorithm, along with explanations and example use cases.
 
